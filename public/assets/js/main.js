@@ -1,0 +1,3 @@
+$('#dataTbl').DataTable({
+    "bFilter": false,
+});
